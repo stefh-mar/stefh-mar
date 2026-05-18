@@ -1,6 +1,8 @@
-div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:89CFF0,50:BFEFFF,100:E0FFFF&text=Stefhany&fontSize=60&fontAlign=50&fontColor=ffffff&animation=twinkling&desc=✨%20Aesthetic%20Profile%20✨&descAlign=50&descAlignY=70"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c084fc&height=200&section=header&text=Stefhany&fontSize=50&fontColor=ffffff"/>
+<p align="center">
+🦋 ✨ ☁️ 💙 ☁️ ✨ 🦋
+</p>
 
 <div align="center">
 
