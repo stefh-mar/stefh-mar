@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zid2N6Z3M0OHg1bXp6Z3M0OHg1bXp6Z3M0OHg1bXp6Z3M0OHg1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlE7uhX8KFgEmY/giphy.gif" alt="Banner Ojos" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zid2N6Z3M0OHg1bXp6Z3M0OHg1bXp6Z3M0OHg1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlE7uhX8KFgEmY/giphy.gif" alt="Banner Ojos" width="100%">
 </p>
 
 <p align="center">🦋 ✨ ☁️ 💙 ☁️ ✨ 🦋</p>
@@ -31,7 +31,7 @@
 
       <h3>🎵 PLAY LIST</h3>
       <p><b>Estudiar, si.</b> <small>via Spotify</small></p>
-      <img src="https://github-readme-spotify.vercel.app/api/highest-tracks?username=TU_USUARIO_GITHUB&theme=tokyonight" alt="Spotify Widget" width="100%">
+      <img src="https://github-readme-spotify.vercel.app/api/highest-tracks?username=Stefhany&theme=tokyonight" alt="Spotify Widget" width="100%">
 
     </td>
 
@@ -39,7 +39,7 @@
 
       <h3>🪼 AESTHETIC VISUALS</h3>
       <p align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zid2N6Z3M0OHg1bXp6Z3M0OHg1bXp6Z3M0OHg1bXp6Z3M0OHg1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwcl9sV9pC/giphy.gif" alt="Jellyfish" width="100%" style="border-radius: 8px;">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zid2N6Z3M0OHg1bXp6Z3M0OHg1bXp6Z3M0OHg1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwcl9sV9pC/giphy.gif" alt="Jellyfish" width="100%" style="border-radius: 8px;">
       </p>
 
       <br>
@@ -68,5 +68,5 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zid2N6Z3M0OHg1bXp6Z3M0OHg1bXp6Z3M0OHg1bXp6Z3M0OHg1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDQ4kc0MeI65Ok0/giphy.gif" width="80" alt="Blue Heart">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zid2N6Z3M0OHg1bXp6Z3M0OHg1bXp6Z3M0OHg1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDQ4kc0MeI65Ok0/giphy.gif" width="80" alt="Blue Heart">
 </p>
