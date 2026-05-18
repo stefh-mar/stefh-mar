@@ -1,16 +1,84 @@
-## Hi there 👋
+# README.md para tu perfil de GitHub ✨
 
-<!--
-**stefh-mar/stefh-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```html
+<div align="center">
 
-Here are some ideas to get you started:
+<h1>
+  <span style="
+    background: linear-gradient(270deg, #a855f7, #7dd3fc, #c084fc, #38bdf8);
+    background-size: 800% 800%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: brillo 8s ease infinite;
+    font-size: 60px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+  ">
+    ✨ Stefhany ✨
+  </span>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<style>
+@keyframes brillo {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+</style>
+
+---
+
+## 💜 Sobre mí
+
+- 💻 Estudiante de Desarrollo de Software
+- 🌸 Aprendiendo HTML, CSS y JavaScript
+- ✨ Me gusta el diseño aesthetic
+- 🎀 Amante de GitHub y la tecnología
+
+---
+
+## 🛠️ Tecnologías
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
+</p>
+
+---
+
+## 📊 Estadísticas
+
+<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" />
+
+---
+
+## 🌐 Redes
+
+<a href="https://github.com/TUUSUARIO">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+<p align="center">
+💜 Gracias por visitar mi perfil 💜
+</p>
+```
+
+## IMPORTANTE
+
+Cambia `stefh-mar` por tu usuario real de GitHub.
+
+Ejemplo:
+
+```html
+username=stefhany123
+```
+
