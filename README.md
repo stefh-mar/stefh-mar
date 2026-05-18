@@ -1,84 +1,30 @@
-# README.md para tu perfil de GitHub ✨
+div align="center">
 
-```html
-<div align="center">
+# ✨ Hola, soy Stefhany ✨
 
-<h1>
-  <span style="
-    background: linear-gradient(270deg, #a855f7, #7dd3fc, #c084fc, #38bdf8);
-    background-size: 800% 800%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: brillo 8s ease infinite;
-    font-size: 60px;
-    font-family: Arial, sans-serif;
-    font-weight: bold;
-  ">
-    ✨ Stefhany ✨
-  </span>
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=3000&color=C084FC&center=true&vCenter=true&width=600&lines=Bienvenid%40+a+mi+perfil;Aprendiendo+programación;GitHub+Profile+✨" />
 
 </div>
-
-<style>
-@keyframes brillo {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
-</style>
 
 ---
 
 ## 💜 Sobre mí
 
-- 💻 Estudiante de Desarrollo de Software
-- 🌸 Aprendiendo HTML, CSS y JavaScript
-- ✨ Me gusta el diseño aesthetic
-- 🎀 Amante de GitHub y la tecnología
-
----
-
-## 🛠️ Tecnologías
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
-</p>
-
----
-
-## 📊 Estadísticas
-
-<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" />
+- 🌸 Aprendiendo programación
+- 💻 Interesada en diseño y tecnología
+- ✨ Creando cosas nuevas
 
 ---
 
 ## 🌐 Redes
 
-<a href="https://github.com/TUUSUARIO">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
 
 ---
 
+## 📊 Stats
+
 <p align="center">
-💜 Gracias por visitar mi perfil 💜
+<img src="https://github-readme-stats.vercel.app/api?username=stefh-mar&show_icons=true&theme=tokyonight"/>
 </p>
-```
-
-## IMPORTANTE
-
-Cambia `stefh-mar` por tu usuario real de GitHub.
-
-Ejemplo:
-
-```html
-username=stefhany123
-```
-
