@@ -1,8 +1,10 @@
 div align="center">
 
-# ✨ Hola, soy Stefhany ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c084fc&height=200&section=header&text=Stefhany&fontSize=50&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=3000&color=C084FC&center=true&vCenter=true&width=600&lines=Bienvenid%40+a+mi+perfil;Aprendiendo+programación;GitHub+Profile+✨" />
+<div align="center">
+
+# 🦋  Hola, soy Stefhany 🦋
 
 </div>
 
